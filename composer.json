@@ -1,6 +1,6 @@
 {
     "name": "knplabs/github-api",
-    "type": "library",
+    "type": "library tada",
     "description": "GitHub API v3 client",
     "homepage": "https://github.com/KnpLabs/php-github-api",
     "keywords": ["github", "gh", "api", "gist"],
