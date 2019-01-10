@@ -1,3 +1,5 @@
+[![PushTrain build](http://dev-playground-003.swiftengine.io:89/badge/aaseio/php-github-api/71.svg)](https://api.github.com/repos/aaseio/php-github-api) [![Managed by PushTrain](http://dev-playground-003.swiftengine.io:89/badge-text/managed_by-PushTrain-F17E43.svg)](https://swiftengine.io)
+
 # PHP GitHub API
 
 [![Build Status](https://travis-ci.org/KnpLabs/php-github-api.svg?branch=master)](https://travis-ci.org/KnpLabs/php-github-api)
